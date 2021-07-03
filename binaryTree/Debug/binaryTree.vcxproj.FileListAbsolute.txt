@@ -1,0 +1,5 @@
+C:\Users\buddy\source\repos\Practice\binaryTree\Debug\binaryTree.vcxproj.AssemblyReference.cache
+C:\Users\buddy\source\repos\Practice\binaryTree\Debug\binaryTree.MainWinForm.resources
+C:\Users\buddy\source\repos\Practice\binaryTree\Debug\binaryTree.vcxproj.GenerateResource.cache
+C:\Users\buddy\source\repos\Practice\binaryTree\Debug\binaryTree.PaintingForm.resources
+C:\Users\buddy\source\repos\Practice\binaryTree\Debug\binaryTree.WebForm.resources

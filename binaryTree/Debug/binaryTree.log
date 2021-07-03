@@ -1,0 +1,20 @@
+﻿  MainWinForm.cpp
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(436,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(436,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(436,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(436,101): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(437,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(437,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(437,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(437,102): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(440,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(440,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(440,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(440,101): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(441,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(441,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(441,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.h(441,102): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\buddy\source\repos\Practice\binaryTree\MainWinForm.cpp(10,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MainWinForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  binaryTree.vcxproj -> C:\Users\buddy\source\repos\Practice\Debug\binaryTree.exe
